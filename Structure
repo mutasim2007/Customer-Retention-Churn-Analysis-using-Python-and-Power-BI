@@ -1,0 +1,8 @@
+data/customer_data.csv
+notebooks/churn_analysis.ipynb
+scripts/analysis.py
+dashboard/churn_dashboard.pbix
+README.md
+requirements.txt
+.gitignore
+docs/summary.md
